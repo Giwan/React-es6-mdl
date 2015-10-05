@@ -46,6 +46,12 @@
            "sass?outputStyle=expanded"
          ],
        },
+
+       // images
+       {
+         test: /\.(jpe?g|png|gif|svg|ico)$/i,
+         loader: "file?name=public/[name].[ext]",
+       },
      ],
    },
  }
