@@ -1,0 +1,11 @@
+{
+  "name": "es6-boilerplate",
+  "version": "0.0.1",
+  "description": "A React ES6 Material lite template project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giwan Persaud",
+  "license": "ISC"
+}
